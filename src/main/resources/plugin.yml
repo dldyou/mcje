@@ -1,0 +1,13 @@
+name: rpg
+version: '${project.version}'
+api: 4.0.0
+api-version: 1.20
+author: dldyou
+main: org.dldyou.main.Main
+commands:
+  stat:
+    description: 플레이어의 스탯을 증가시킵니다.
+  reset:
+    description: 스탯 초기화. (사용 불가)
+  home:
+    description: 스폰 포인트로 이동합니다.
