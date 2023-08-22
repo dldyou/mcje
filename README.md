@@ -1,4 +1,4 @@
-# [최신 패치 노트](https://github.com/dldyou/mcje/blob/78ff1b8a3afe321eddf614e456f3d2f4d30e35f8/0818.md)
+# [최신 패치 노트](https://github.com/dldyou/mcje/blob/80c2bb321282363bc1a6f1f5d199bbd3c8a592eb/patch/0818.md)
 
 ## 명령어
 
